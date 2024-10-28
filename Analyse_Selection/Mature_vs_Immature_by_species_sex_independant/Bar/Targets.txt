@@ -1,0 +1,14 @@
+files	group	description
+/data/230419_SAV_Geffroy_B3/RawCounts/B9_P_F.txt	Immature	B9_Immature
+/data/230419_SAV_Geffroy_B3/RawCounts/B31_P_F.txt	Immature	B31_Immature
+/data/230419_SAV_Geffroy_B3/RawCounts/B27_P_F.txt	Immature	B27_Immature
+/data/230419_SAV_Geffroy_B3/RawCounts/B11_P_M.txt	Immature	B11_Immature
+/data/230419_SAV_Geffroy_B3/RawCounts/B14_P_M.txt	Immature	B14_Immature
+/data/230419_SAV_Geffroy_B3/RawCounts/B17_P_M.txt	Immature	B17_Immature
+/data/230419_SAV_Geffroy_B3/RawCounts/B19_P_M.txt	Immature	B19_Immature
+/data/230419_SAV_Geffroy_B3/RawCounts/B43_G_F.txt	Mature	B43_Mature
+/data/230419_SAV_Geffroy_B3/RawCounts/B54_G_F.txt	Mature	B54_Mature
+/data/230419_SAV_Geffroy_B3/RawCounts/B60_G_F.txt	Mature	B60_Mature
+/data/230419_SAV_Geffroy_B3/RawCounts/B48_G_M.txt	Mature	B48_Mature
+/data/230419_SAV_Geffroy_B3/RawCounts/B49_G_M.txt	Mature	B49_Mature
+/data/230419_SAV_Geffroy_B3/RawCounts/B59_G_M.txt	Mature	B59_Mature

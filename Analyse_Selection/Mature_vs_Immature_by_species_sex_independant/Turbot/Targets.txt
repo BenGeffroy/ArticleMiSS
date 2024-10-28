@@ -1,0 +1,17 @@
+files	group	description
+/data/230419_SAV_Geffroy_B3/RawCounts/T9_P_F.txt	Immature	T9_Immature
+/data/230419_SAV_Geffroy_B3/RawCounts/T26_P_F.txt	Immature	T26_Immature
+/data/230419_SAV_Geffroy_B3/RawCounts/T31_P_F.txt	Immature	T31_Immature
+/data/230419_SAV_Geffroy_B3/RawCounts/T32_P_F.txt	Immature	T32_Immature
+/data/230419_SAV_Geffroy_B3/RawCounts/T13_P_F.txt	Immature	T13_Immature
+/data/230419_SAV_Geffroy_B3/RawCounts/T23_P_F.txt	Immature	T23_Immature
+/data/230419_SAV_Geffroy_B3/RawCounts/T1_P_M.txt	Immature	T1_Immature
+/data/230419_SAV_Geffroy_B3/RawCounts/T3_P_M.txt	Immature	T3_Immature
+/data/230419_SAV_Geffroy_B3/RawCounts/T12_P_M.txt	Immature	T12_Immature
+/data/230419_SAV_Geffroy_B3/RawCounts/T44_G_F.txt	Mature	T44_Mature
+/data/230419_SAV_Geffroy_B3/RawCounts/T47_G_F.txt	Mature	T47_Mature
+/data/230419_SAV_Geffroy_B3/RawCounts/T41_G_M.txt	Mature	T41_Mature
+/data/230419_SAV_Geffroy_B3/RawCounts/T43_G_M.txt	Mature	T43_Mature
+/data/230419_SAV_Geffroy_B3/RawCounts/T45_G_M.txt	Mature	T45_Mature
+/data/230419_SAV_Geffroy_B3/RawCounts/T63_G_M.txt	Mature	T63_Mature
+/data/230419_SAV_Geffroy_B3/RawCounts/T69_G_M.txt	Mature	T69_Mature
