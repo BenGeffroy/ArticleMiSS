@@ -2,7 +2,7 @@
 
 Research compendium to reproduce analyses and figures of the following article:
 
->  Benjamin Geffroy, Camille Houdelet, Eva Blondeau-Bidet, Xavier Mialhe, Aline Bajek, Jean-Claude Falguière, Yann Guiguen5 & Julien Bobe. Identifying sexually dimorphic circulating microRNAs in gonochoristic and hermaphroditic marine fish species. DOI: [[10.1038/s41467-020-18779-w](http://dx.doi.org/10.1038/s41467-020-18779-w](https://doi.org/10.1101/2024.10.11.617774)).
+>  Benjamin Geffroy, Camille Houdelet, Eva Blondeau-Bidet, Xavier Mialhe, Aline Bajek, Jean-Claude Falguière, Yann Guiguen5 & Julien Bobe. Identifying sexually dimorphic circulating microRNAs in gonochoristic and hermaphroditic marine fish species. DOI: https://doi.org/10.1101/2024.10.11.617774.
 
 <hr />
 
