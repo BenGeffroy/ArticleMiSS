@@ -14,7 +14,7 @@ This repository is structured as follow:
 - `Analyse_Selection/`: contains all data required to make statistics & reproduce figures on gonochoristics species
 - `Daurade_Gac/`: contains all data required to make statistics & reproduce figures on the Seabream 
 - `Plot & Stats MiSS sex all species v1`: contains R functions developed for this project
-- Selected samples. csv : metadato for gonochoristic species
+- Selected samples. csv : metadata for gonochoristic species
 
 
 ## Notes
